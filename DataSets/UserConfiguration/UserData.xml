@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<UserDetails>
+	<User>
+		<UserId>1</UserId>
+		<UserName>batchautomation</UserName>
+		<Password>Test@12345</Password>
+	</User>
+	<User>
+		<UserId>2</UserId>
+		<UserName>Hello</UserName>
+		<PassWord>PasswordHello</PassWord>
+	</User>
+</UserDetails>
